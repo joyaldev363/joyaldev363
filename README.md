@@ -44,14 +44,3 @@
 | 📱 **CoC Layouts App** | Mobile App | Feature-rich mobile app built with Flutter and Dart. |
 | 🖥️ **CoC Admin Panel** | Web Admin | Admin management dashboard built with TypeScript. |
 
----
-
-### 📊 GitHub Statistics & Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=joyaldev363&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joyaldev363&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
