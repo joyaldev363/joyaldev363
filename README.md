@@ -46,12 +46,12 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Statistics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joyaldev363&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Joyal's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=joyaldev363&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyaldev363&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joyaldev363&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
