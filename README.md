@@ -1,46 +1,53 @@
-# Hi there, I'm Joyal 👋 
+<h1 align="center">Hi, I'm Joyal 👋</h1>
 
 <p align="center">
-  <b>Flutter Developer | Full Stack & AI Application Engineer</b>
+  <b>Mobile Application Architect & Full-Stack AI Engineer</b>
 </p>
 
 <p align="center">
-  <i>Passionate about crafting high-performance mobile apps, seamless UI/UX, and AI-powered solutions.</i>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+  <a href="mailto:joyaldev363@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <i>Specializing in production-grade Flutter mobile apps, enterprise state management, full-stack backends, and AI audio/video systems.</i>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 **Currently Building:** AI-powered Dubbing & Translation platform (**DubTranslate AI**) & Flutter Mobile Applications.
-- 🌱 **Learning & Exploring:** Advanced AI Architecture, FastAPI & State Management (Riverpod / BLoC).
-- 💬 **Ask me about:** Flutter, Dart, Firebase, Supabase, AI API Integration, and Responsive Mobile UI.
+### 👨‍💻 Professional Snapshot
+
+- 🚀 **AI & Media Processing:** Architecting **DubTranslate AI** — an end-to-end platform for automated video/audio dubbing, voice synthesis, and multi-language translation.
+- 📱 **Mobile Architecture:** Expertise in building scalable, production-ready Flutter applications using enterprise state management (**BLoC**, **Riverpod**, **Provider**).
+- ⚙️ **Backend & Cloud Systems:** Designing high-throughput REST APIs using **FastAPI** & **Python**, backed by **Supabase**, **Firebase**, and **PostgreSQL**.
+- 🎨 **UI/UX Engineering:** Translating complex **Figma** designs into pixel-perfect, responsive mobile & web interfaces with smooth 60fps performance.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Ecosystem
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,figma,firebase,supabase,postgres,python,fastapi,git,github" alt="Joyal Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,figma,firebase,supabase,postgres,python,fastapi,git,github" alt="Joyal Skill Matrix" />
   </a>
 </p>
 
 <br/>
 
-| Category | Skill Set & Tools |
+| Domain | Key Technologies & Architecture |
 | :--- | :--- |
-| **📱 Mobile Dev** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="22" height="22"/> **Flutter** &nbsp; • &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="22" height="22"/> **Dart** &nbsp; • &nbsp; **Provider / BLoC / Riverpod** |
-| **🎨 UI / Design** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="22" height="22"/> **Figma** &nbsp; • &nbsp; **Responsive UI & Mobile UI/UX** |
-| **⚙️ Backend & DB** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="22" height="22"/> **Firebase** &nbsp; • &nbsp; **Supabase** &nbsp; • &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" height="22"/> **PostgreSQL** &nbsp; • &nbsp; **REST APIs** |
-| **🧠 AI / Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" height="22"/> **Python** &nbsp; • &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="22" height="22"/> **FastAPI** &nbsp; • &nbsp; **AI App Development** |
-| **🛠️ Dev Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22"/> **Git** &nbsp; • &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22"/> **GitHub** &nbsp; • &nbsp; **API Integration** |
+| **📱 Mobile Engineering** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20" height="20"/> **Flutter** &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="20" height="20"/> **Dart** &nbsp;•&nbsp; **BLoC** &nbsp;•&nbsp; **Riverpod** &nbsp;•&nbsp; **Provider** |
+| **🎨 UI/UX & Design** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20"/> **Figma** &nbsp;•&nbsp; **Responsive UI Systems** &nbsp;•&nbsp; **Design System Implementation** |
+| **⚙️ Backend & Database** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20" height="20"/> **Firebase** &nbsp;•&nbsp; **Supabase** &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20"/> **PostgreSQL** &nbsp;•&nbsp; **REST APIs** |
+| **🧠 AI & Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> **Python** &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20" height="20"/> **FastAPI** &nbsp;•&nbsp; **AI Application Integration** |
+| **🛠️ Tools & DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> **Git** &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20"/> **GitHub Workflows** &nbsp;•&nbsp; **API Integration** |
 
 ---
 
-### 🌟 Key Projects
-| Project | Domain | Description |
-| :--- | :--- | :--- |
-| 🎙️ **DubTranslate AI** | Mobile, Web, Backend | AI-powered audio/video dubbing and translation platform with voice generation. |
-| 📱 **CoC Layouts App** | Mobile App | Feature-rich mobile app built with Flutter and Dart. |
-| 🖥️ **CoC Admin Panel** | Web Admin | Admin management dashboard built with TypeScript. |
+### 🌟 Featured Projects
 
+| Project | Ecosystem | Highlights |
+| :--- | :--- | :--- |
+| 🎙️ **DubTranslate AI** | Flutter • Python • FastAPI | AI-driven platform for audio/video dubbing, voice generation, and multilingual translation. |
+| 📱 **CoC Layouts App** | Flutter • Dart | Feature-rich mobile application for gaming layouts & community configurations. |
+| 🖥️ **CoC Admin Panel** | TypeScript • Web | Centralized admin control dashboard for platform content management. |
