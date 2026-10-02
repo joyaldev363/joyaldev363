@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Python+Developer;Flutter+%26+Mobile+App+Enthusiast;Backend+%26+Automation+Engineer" alt="Typing SVG" />
 </p>
 
-I build robust backend systems, automation scripts, and cross-platform mobile apps.
+Passionate Software Engineer specializing in scalable Python backends, intelligent automation workflows, and cross-platform mobile applications with Flutter.
 
 ---
 
