@@ -1,6 +1,8 @@
 # Hi there, I'm Joyal
 
-> **Python Developer | Flutter Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Python+Developer;Flutter+%26+Mobile+App+Enthusiast;Computer+Vision+%26+Automation+Engineer" alt="Typing SVG" />
+</p>
 
 I build robust backend systems, automation scripts, computer vision applications, and cross-platform mobile apps.
 
@@ -14,7 +16,7 @@ I build robust backend systems, automation scripts, computer vision applications
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Tools & Environment**  
+**Tools & Infrastructure**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -22,11 +24,21 @@ I build robust backend systems, automation scripts, computer vision applications
 
 ---
 
-### Recent Projects
+### Featured Projects
 
-- **Snake Game**: A classic snake game built with smooth mechanics and custom features.
-- **Smart Object Detection**: Computer vision model for real-time object identification using Python & OpenCV.
-- **GitHub-Activity-Repository-Reporter**: Tool that automates activity reporting and analytics across GitHub repositories.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Snake Game](https://github.com/joyaldev363/snake-game)** | Classic snake game with smooth mechanics & custom features | Python, Pygame |
+| **[Smart Object Detection](https://github.com/joyaldev363/smart-object-detection)** | Real-time computer vision object detection pipeline | Python, OpenCV |
+| **[GitHub Activity Reporter](https://github.com/joyaldev363/GitHub-Activity-Repository-Reporter)** | Automated metrics & activity reporter across repositories | Python, GitHub API |
+
+---
+
+### Current Focus & Learning
+
+- **Backend Development**: Building high-performance APIs using Python & FastAPI.
+- **Mobile Development**: Advanced Flutter state management (Bloc & Provider).
+- **Computer Vision**: Expanding deep learning models with PyTorch.
 
 ---
 
@@ -36,7 +48,7 @@ I build robust backend systems, automation scripts, computer vision applications
 
 ---
 
-### GitHub Stats
+### GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joyaldev363&show_icons=true&theme=dark" alt="Joyal's GitHub Stats" width="48%" />
@@ -51,4 +63,6 @@ I build robust backend systems, automation scripts, computer vision applications
 
 ### Connect with Me
 
-- GitHub: [@joyaldev363](https://github.com/joyaldev363)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
