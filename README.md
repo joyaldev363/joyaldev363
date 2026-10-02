@@ -1,53 +1,45 @@
-<h1 align="center">Hi, I'm Joyal 👋</h1>
+# Hi there, I'm Joyal
+
+> **Python Developer | Flutter Enthusiast**
+
+I build robust backend systems, automation scripts, computer vision applications, and cross-platform mobile apps.
+
+---
+
+### Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### Recent Projects
+
+- **Snake Game**: A classic snake game built with smooth mechanics and custom features.
+- **Smart Object Detection**: Computer vision model for real-time object identification using Python & OpenCV.
+- **GitHub-Activity-Repository-Reporter**: Tool that automates activity reporting and analytics across GitHub repositories.
+
+---
+
+### GitHub Contribution Graph Snake
+
+![Snake animation](https://raw.githubusercontent.com/joyaldev363/joyaldev363/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <b>Mobile Application Architect & Full-Stack AI Engineer</b>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-  <a href="mailto:joyaldev363@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <i>Specializing in production-grade Flutter mobile apps, enterprise state management, full-stack backends, and AI audio/video systems.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=joyaldev363&show_icons=true&theme=dark" alt="Joyal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyaldev363&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### 👨‍💻 Professional Snapshot
+### Connect with Me
 
-- 🚀 **AI & Media Processing:** Architecting **DubTranslate AI** — an end-to-end platform for automated video/audio dubbing, voice synthesis, and multi-language translation.
-- 📱 **Mobile Architecture:** Expertise in building scalable, production-ready Flutter applications using enterprise state management (**BLoC**, **Riverpod**, **Provider**).
-- ⚙️ **Backend & Cloud Systems:** Designing high-throughput REST APIs using **FastAPI** & **Python**, backed by **Supabase**, **Firebase**, and **PostgreSQL**.
-- 🎨 **UI/UX Engineering:** Translating complex **Figma** designs into pixel-perfect, responsive mobile & web interfaces with smooth 60fps performance.
-
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,figma,firebase,supabase,postgres,python,fastapi,git,github" alt="Joyal Skill Matrix" />
-  </a>
-</p>
-
-<br/>
-
-| Domain | Key Technologies & Architecture |
-| :--- | :--- |
-| **📱 Mobile Engineering** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20" height="20"/> **Flutter** &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="20" height="20"/> **Dart** &nbsp;•&nbsp; **BLoC** &nbsp;•&nbsp; **Riverpod** &nbsp;•&nbsp; **Provider** |
-| **🎨 UI/UX & Design** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20"/> **Figma** &nbsp;•&nbsp; **Responsive UI Systems** &nbsp;•&nbsp; **Design System Implementation** |
-| **⚙️ Backend & Database** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20" height="20"/> **Firebase** &nbsp;•&nbsp; **Supabase** &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20"/> **PostgreSQL** &nbsp;•&nbsp; **REST APIs** |
-| **🧠 AI & Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> **Python** &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20" height="20"/> **FastAPI** &nbsp;•&nbsp; **AI Application Integration** |
-| **🛠️ Tools & DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> **Git** &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20"/> **GitHub Workflows** &nbsp;•&nbsp; **API Integration** |
-
----
-
-### 🌟 Featured Projects
-
-| Project | Ecosystem | Highlights |
-| :--- | :--- | :--- |
-| 🎙️ **DubTranslate AI** | Flutter • Python • FastAPI | AI-driven platform for audio/video dubbing, voice generation, and multilingual translation. |
-| 📱 **CoC Layouts App** | Flutter • Dart | Feature-rich mobile application for gaming layouts & community configurations. |
-| 🖥️ **CoC Admin Panel** | TypeScript • Web | Centralized admin control dashboard for platform content management. |
+- GitHub: [@joyaldev363](https://github.com/joyaldev363)
