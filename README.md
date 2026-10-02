@@ -1,10 +1,10 @@
 # Hi there, I'm Joyal
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Python+Developer;Flutter+%26+Mobile+App+Enthusiast;Computer+Vision+%26+Automation+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Python+Developer;Flutter+%26+Mobile+App+Enthusiast;Backend+%26+Automation+Engineer" alt="Typing SVG" />
 </p>
 
-I build robust backend systems, automation scripts, computer vision applications, and cross-platform mobile apps.
+I build robust backend systems, automation scripts, and cross-platform mobile apps.
 
 ---
 
@@ -15,12 +15,14 @@ I build robust backend systems, automation scripts, computer vision applications
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Tools & Infrastructure**  
+**Tools & Environment**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -29,7 +31,7 @@ I build robust backend systems, automation scripts, computer vision applications
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Snake Game](https://github.com/joyaldev363/snake-game)** | Classic snake game with smooth mechanics & custom features | Python, Pygame |
-| **[Smart Object Detection](https://github.com/joyaldev363/smart-object-detection)** | Real-time computer vision object detection pipeline | Python, OpenCV |
+| **[Smart Object Detection](https://github.com/joyaldev363/smart-object-detection)** | Real-time object detection pipeline | Python, OpenCV |
 | **[GitHub Activity Reporter](https://github.com/joyaldev363/GitHub-Activity-Repository-Reporter)** | Automated metrics & activity reporter across repositories | Python, GitHub API |
 
 ---
@@ -38,7 +40,6 @@ I build robust backend systems, automation scripts, computer vision applications
 
 - **Backend Development**: Building high-performance APIs using Python & FastAPI.
 - **Mobile Development**: Advanced Flutter state management (Bloc & Provider).
-- **Computer Vision**: Expanding deep learning models with PyTorch.
 
 ---
 
