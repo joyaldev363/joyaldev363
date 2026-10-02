@@ -48,19 +48,6 @@ I build robust backend systems, automation scripts, computer vision applications
 
 ---
 
-### GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joyaldev363&show_icons=true&theme=dark" alt="Joyal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.net/?user=joyaldev363&theme=dark" alt="GitHub Streak Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joyaldev363&theme=react-dark" alt="GitHub Activity Graph" width="100%" />
-</p>
-
----
-
 ### Connect with Me
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
